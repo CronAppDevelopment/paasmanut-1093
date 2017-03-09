@@ -6,6 +6,7 @@
         <class>app.entity.UserRole</class>
         <class>app.entity.User</class>
         <class>app.entity.Role</class>
+        <!--properties-->
         <properties>
           <property name="javax.persistence.jdbc.driver" value="org.h2.Driver"/>
           <property name="javax.persistence.jdbc.url" value="jdbc:h2:file:~/Paasmanut1093;AUTO_SERVER=TRUE;DATABASE_TO_UPPER=FALSE;ALIAS_COLUMN_NAME=TRUE"/>
